@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 - 👨‍🎓 I'm a Sophomore undergrad at the Computer Science Department, IIT Jodhpur.
-- 🌱 I’m currently learning dotnet, django, Angular.
+- 🌱 I’m currently learning dotnet, Spring Boot and Quarkus, Angular.
 - 📫 How to reach me: sriganeshthota12345@gmail.com or b22cs054@iitj.ac.in
 - 👯 I’m looking to collaborate on open-source projects.
 
@@ -30,6 +30,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="44" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="git" height="40" style="vertical-align:top; margin:4px">
+<img src="https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png" alt="quarkus" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="VIM" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
