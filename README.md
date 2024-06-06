@@ -6,6 +6,9 @@
 - 📫 How to reach me: sriganeshthota12345@gmail.com or b22cs054@iitj.ac.in
 - 👯 I’m looking to collaborate on open-source projects.
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sri-ganesh-thota-687a12256) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23211267) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Sriganesh2005) 
+
 ## 🚀 Languages and Tools
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
