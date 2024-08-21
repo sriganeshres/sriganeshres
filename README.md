@@ -44,7 +44,7 @@
 ## 📊 Github Stats
   [![Sri Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriganeshres&show_icons=true&theme=dark&hide_border=false)]()\
   ![Sri Ganesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sriganeshres&theme=dark&hide_border=false)\
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriganeshres&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true&langs_count=10)]()\
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriganeshres&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true&langs_count=100)]()\
 PS: Top Languages are metric of language that my public code contains; it doesn't reflect my experience or skill level.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sriganeshres&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
