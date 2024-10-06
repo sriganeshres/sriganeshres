@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 - 👨‍🎓 I'm a Junior undergrad at the Computer Science Department, IIT Jodhpur.
-- 🌱 I’m currently learning dotnet, Spring Boot and Quarkus, Angular.
+- 🌱 I’m currently learning Spring Boot and Angular.
 - 📫 How to reach me: sriganeshthota12345@gmail.com or b22cs054@iitj.ac.in
 - 👯 I’m looking to collaborate on open-source projects.
 
