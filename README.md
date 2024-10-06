@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?text=Hi%20Sri%20Ganesh%20here!&animation=fadeIn&type=waving&color=gradient&height=100)
 
 ## 🙋‍♂️ About Me
-- 👨‍🎓 I'm a Sophomore undergrad at the Computer Science Department, IIT Jodhpur.
+- 👨‍🎓 I'm a Junior undergrad at the Computer Science Department, IIT Jodhpur.
 - 🌱 I’m currently learning dotnet, Spring Boot and Quarkus, Angular.
 - 📫 How to reach me: sriganeshthota12345@gmail.com or b22cs054@iitj.ac.in
 - 👯 I’m looking to collaborate on open-source projects.
