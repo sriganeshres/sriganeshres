@@ -25,5 +25,5 @@ jobs:
           git config user.name "Sri Ganesh Thota"
           git config user.email sriganeshthota12345@gmail.com
           git add -A .
-          git commit -m "generated"
+          git commit -m "chore: updates the constributions"
           git push origin master
