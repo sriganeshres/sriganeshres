@@ -14,14 +14,16 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: gumbobrot/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Pull Latest Changes
+        run: git pull --force origin master
       - name: Commit & Push
         run: |
           git config user.name "Sri Ganesh Thota"
           git config user.email sriganeshthota12345@gmail.com
           git add -A .
           git commit -m "generated"
-          git push 
+          git push origin master
