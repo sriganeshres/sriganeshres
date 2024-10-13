@@ -49,7 +49,7 @@ PS: Top Languages are metric of language that my public code contains; it doesn'
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sriganeshres&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 ## 🚀 Github 3D Contribution
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 ## ❤ Profile Views and Followers
 ![](https://komarev.com/ghpvc/?username=sriganeshres&color=blue) 
 
